@@ -259,7 +259,8 @@ def user_stats(df):
 
 def main():
     '''
-    This is the main function that will call other functions to input user selections and provide bike share statistics
+    This is the main function that will call other functions to input user selections and provide bike 
+    share statistics. It has interactive mode to display required data to the user.
     :param: None
     :return: None
     '''
