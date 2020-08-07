@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+This project and README file is created on Aug 6th, 2020.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This projet makes use of Python to explore data related to bike share systems for certain cities in the United States. It aims to develop code to import the data from raw data files and answer interesting questions about it by computing descriptive statistics. It also includes developing a script that takes in raw input to create an interactive experience in the terminal to present these statistics to the user.
 
 ### Files used
-Include the files used
+Files included in this project are:
+    bikeshare.py (Base file to host all the python code)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was completed by Vishal Biyani, based on the instructions provided in the Udacity program.
 
