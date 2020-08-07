@@ -28,6 +28,11 @@ def get_filters():
             break
         else:
             # output below message for incorrect entry
+
+            # add changes 08/06 - provide input details to the user
+            print("YOu have provided input as : ", city)
+            # end changes 08/06 - provide input details to the user
+            
             print("Not a valid selection. Please select any of the valid city option.")
             print()
 
