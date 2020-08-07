@@ -10,9 +10,9 @@ This projet makes use of Python to explore data related to bike share systems fo
 ### Files used
 Files included in this project are:
     bikeshare.py (Base file to host all the python code)
-    chicago.csv
-    new_york_city.csv
-    washington.csv
+    chicago.csv (Raw data file for Washington)
+    new_york_city.csv (Raw data file for New York City)
+    washington.csv (Raw data file for Chicago)
 
 ### Credits
 This project was completed by Vishal Biyani, based on the instructions provided in the Udacity program.
