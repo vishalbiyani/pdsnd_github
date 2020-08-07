@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Dictionary to store city name and raw data file relationship
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
